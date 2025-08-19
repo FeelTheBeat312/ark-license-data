@@ -8,7 +8,7 @@ Benutzername: Florian
 Computer: DESKTOP-MKKR5OB
 Discord: flotoxic
 # Gesperrte Nutzer/Maschinen/Discord-IDs
-Benutzername: FeelTheBeat
+Benutzername: Patrick
 Computer: MONSTER
 Discord: FeelTheBeat_
 # Gesperrte Nutzer/Maschinen/Discord-IDs
