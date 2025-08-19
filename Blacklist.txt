@@ -8,9 +8,6 @@ Benutzername: Florian
 Computer: DESKTOP-MKKR5OB
 Discord: flotoxic
 # Gesperrte Nutzer/Maschinen/Discord-IDs
-Benutzername: tobicrafter
-Computer: TOBIAS
-Discord: tobicrafter
 # Gesperrte Nutzer/Maschinen/Discord-IDs
 # Gesperrte Nutzer/Maschinen/Discord-IDs
 # Gesperrte Nutzer/Maschinen/Discord-IDs
