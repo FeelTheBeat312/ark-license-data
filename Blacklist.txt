@@ -12,6 +12,9 @@ Benutzername: tobicrafter
 Computer: TOBIAS
 Discord: tobicrafter
 # Gesperrte Nutzer/Maschinen/Discord-IDs
+Benutzername: MAREK
+Computer: DESKTOP-PLQLVNV
+Discord: ryz1x.5
 # Gesperrte Nutzer/Maschinen/Discord-IDs
 # Gesperrte Nutzer/Maschinen/Discord-IDs
 # Gesperrte Nutzer/Maschinen/Discord-IDs
