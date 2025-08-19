@@ -10,7 +10,7 @@ Discord: flotoxic
 # Gesperrte Nutzer/Maschinen/Discord-IDs
 Benutzername: Patrick
 Computer: MONSTER
-Discord: FeelTheBeat_
+Discord: feelthebeat_
 # Gesperrte Nutzer/Maschinen/Discord-IDs
 # Gesperrte Nutzer/Maschinen/Discord-IDs
 # Gesperrte Nutzer/Maschinen/Discord-IDs
