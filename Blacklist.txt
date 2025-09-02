@@ -1,12 +1,5 @@
 # Gesperrte Nutzer/Maschinen/Discord-IDs
-Benutzername: Patricks Bf
-Computer: DESKTOP-PA9ANFA
-Discord: monkey
 # Gesperrte Nutzer/Maschinen/Discord-IDs
-Neue Lizenzanfrage:
-Benutzername: Florian
-Computer: DESKTOP-MKKR5OB
-Discord: flotoxic
 # Gesperrte Nutzer/Maschinen/Discord-IDs
 # Gesperrte Nutzer/Maschinen/Discord-IDs
 # Gesperrte Nutzer/Maschinen/Discord-IDs
